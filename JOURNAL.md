@@ -16,7 +16,7 @@ Also decided to design the flight controller myself.
 
 # 06/11/2026 2 PM - Started the Schematics
 
-_Time spent: 1h_
+_Time spent: 2h_
 
 Decided on the MCU, made the first draft of the schematic, and researched the components I could use.
 
@@ -49,7 +49,7 @@ The rest of the PCB work happened in many small sessions, so I didn't journal ea
 
 # 06/21/2026 - 07/01/2026 - Finished the PCB
 
-_Time spent: 4h_
+_Time spent: 8h_
 
 Completed the PCB layout. Since I'm still a beginner at PCB design, I had to ask for help several times, and a lot of people guided me through the process. I stopped working on it on July 1 because of my exams.
 
@@ -58,6 +58,7 @@ Completed the PCB layout. Since I'm still a beginner at PCB design, I had to ask
 <img width="605" height="603" alt="image" src="https://github.com/user-attachments/assets/610f65da-e8c2-4674-8040-4b51eaacb0d0" />
 
 # 07/05/2026 - 07/06/2026 - Finalizing
+_Time spent: 2h_
 
 Fixed a few issues with the PDS, finalized the flight controller, and received X-tier approval.
 

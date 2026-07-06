@@ -1,0 +1,14 @@
+Item,Category,Qty,Unit Price (USD),Extended Price (USD),Notes
+Flight Controller (Custom),Flight Controller,1,65.00,65.00,Custom FC budget indepth BOM PCB/flightcontroller
+SpeedyBee BLS 50A 30x30 4-in-1 ESC,ESC,1,39.00,39.00,BLHeli_S 50A 3-6S
+BETAFPV LiteRadio 2 SE,Radio Transmitter,1,45.00,45.00,ELRS version preferred
+2212 920KV Brushless Motor,Motor,4,10.00,40.00,For 10x4.5 propellers
+10x4.5 (1045) Propeller CW/CCW Pair,Propellers,2,3.00,6.00,Two pairs (4 props total)
+4S 5200mAh LiPo Battery XT60,Battery,1,45.00,45.00,14.8V LiPo
+BETAFPV ExpressLRS Nano Receiver,Receiver,1,18.00,18.00,2.4GHz ELRS
+XT60 Pigtail,Power,1,3.00,3.00,14AWG silicone wire
+1000uF 35V Low ESR Capacitor,Power Filter,1,2.00,2.00,Recommended for ESC
+Silicone Wire (18AWG/14AWG),Wiring,1,5.00,5.00,Power and signal wiring
+Heat Shrink Tubing,Miscellaneous,1,2.00,2.00,Electrical insulation
+M3 Hardware Set,Miscellaneous,1,5.00,5.00,Screws, standoffs, nuts
+Frame (450mm class),Frame,1,25.00,25.00,Compatible with 2212 motors and 10-inch props

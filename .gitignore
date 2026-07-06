@@ -431,3 +431,4 @@ docs/_build/
 *.orig
 *.rej
 *.lock
+pcb/flight-controller/schematics-and-pcb-design/flight-controller/~flight-controller.kicad_pro.lck

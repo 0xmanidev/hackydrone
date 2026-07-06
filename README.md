@@ -38,6 +38,10 @@ Included files:
 
 These files can be directly submitted to PCB fabrication services.
 
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/e5cae8ec-96a2-4c79-97fd-0c498df52f41" />
+for more accurate and interactive schematics view the pcb/flight-controller -flight-controller.kicad_Sch,sensor.kicad_sch
+
+
 ---
 # 3d model
 <img width="1672" height="941" alt="3d-mockup" src="https://github.com/user-attachments/assets/5aec690e-e9e3-41bc-be3e-08eb35fff007" />

@@ -6,6 +6,9 @@ This is my project for Outpost. It's an F450-style drone with a custom-designed 
 This project is built with the help of Hackclub and the program submitted to
 [Outpost](https://outpost.hackclub.com/) / [Stardance](https://stardance.hackclub.com/)
 
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/fa62bf5d-a2da-4260-8835-5a28af12c650" />
+
+
 # Building
 
 Clone the repository:
@@ -73,3 +76,7 @@ for more accurate and interactive schematics view the pcb/flight-controller -fli
 | Flight Testing | 🚧 In Progress |
 
 ---
+AI USAGE : RESEARCH purposes and for mockups and visuals 
+
+# credits : hackclub community - stasis community for helping out in making and outpost team for staying active and resolving queries
+MADE with love by 0xmanidev

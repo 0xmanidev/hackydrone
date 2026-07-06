@@ -51,6 +51,9 @@ for more accurate and interactive schematics view the pcb/flight-controller -fli
 
 # Flight controller
 <img width="1723" height="952" alt="pcb" src="https://github.com/user-attachments/assets/995c2f2f-041c-4c82-9691-bbb73a5d9286" />
+<img width="2339" height="1654" alt="image" src="https://github.com/user-attachments/assets/d62f4a06-191b-44b5-be5d-5894674afe13" />
+<img width="2339" height="1654" alt="image" src="https://github.com/user-attachments/assets/d1f553f1-9d9e-4f34-8bc1-6212d73b76f4" />
+
 
 # Components(these are the only after market components)
 <div align="center">

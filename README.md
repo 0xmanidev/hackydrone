@@ -6,6 +6,39 @@ This is my project for Outpost. It's an F450-style drone with a custom-designed 
 This project is built with the help of Hackclub and the program submitted to
 [Outpost](https://outpost.hackclub.com/) / [Stardance](https://stardance.hackclub.com/)
 
+# Building
+
+Clone the repository:
+
+```bash
+git clone https://github.com/0xmanidev/hackydrone.git
+
+cd hackydrone
+```
+
+Compile firmware:
+
+```bash
+cd firmware/betaflight-2025.12.5
+
+make TARGET=<BOARD_NAME>
+```
+
+---
+## PCB
+
+The `pcb/` directory contains everything required to manufacture the custom flight controller.
+
+Included files:
+
+- Complete KiCad project
+- Bill of Materials (BOM)
+- IPC netlist
+- Manufacturing outputs
+
+These files can be directly submitted to PCB fabrication services.
+
+---
 # 3d model
 <img width="1672" height="941" alt="3d-mockup" src="https://github.com/user-attachments/assets/5aec690e-e9e3-41bc-be3e-08eb35fff007" />
 
@@ -21,3 +54,18 @@ This project is built with the help of Hackclub and the program submitted to
 <div align="center">
 
 </div>
+
+---
+
+# Current Status
+
+| Component | Status |
+|-----------|--------|
+| Frame Design | ✅ Complete |
+| Flight Controller PCB | ✅ Complete |
+| Firmware | ✅ Working |
+| CAD Models | ✅ Complete |
+| PCB Manufacturing Files | ✅ Included |
+| Flight Testing | 🚧 In Progress |
+
+---

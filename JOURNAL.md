@@ -85,7 +85,7 @@ I paused development on July 1 to focus on my exams before returning to finish t
 
 After my exams, I returned to the project to complete the final cleanup. I fixed several remaining issues in the Power Distribution System (PDS), made final adjustments to the flight controller, and verified that the design met all of the project requirements.
 
-Once the remaining issues were resolved, I submitted the completed design for review and successfully received X-tier approval. Reaching this stage marked the completion of both the mechanical and electronic design work, leaving the project ready for manufacturing and assembly.
+Once the remaining issues were resolved, I submitted the completed design for review and successfully received X-tier approval to proceed on this projecy. Reaching this stage marked the completion of both the mechanical and electronic design work, leaving the project ready for manufacturing and assembly.
 
 ## Images
 
